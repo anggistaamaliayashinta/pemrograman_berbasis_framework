@@ -1,0 +1,25 @@
+{
+    "posts": [
+      
+      {
+        "userId": 1,
+        "id": 1614572405670,
+        "nim": "NIM : 1841720017",
+        "nama": "NAMA: Anggista Amalia Yashinta",
+        "alamat": "ALAMAT: perum nilam",
+        "telfon": "NO.Telepon: 08123487403",
+        "angkatan": "ANGKATAN: 2018",
+        "status": "STATUS: mahasiswa aktif"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
