@@ -1,0 +1,71 @@
+{
+    "Kipasangin": [
+      {
+        "id": 1,
+        "nama": "SEKAI Pile Fan HSN 1238 PO 12inch 1unit",
+        "harga": 385.000,
+        "gambar": "https://cdn.monotaro.id/media/catalog/product/cache/877fcb35590cc62c03a65c52f73f09cd/S/0/S009406173-1.jpg",
+        "stok": 2
+      },
+      {
+        "id": 2,
+        "nama": "Miyako Desk Fan KAD-927 B GB 1unit",
+        "harga": 189.200,
+        "gambar": "https://cdn.monotaro.id/media/catalog/product/cache/877fcb35590cc62c03a65c52f73f09cd/S/0/S010900215-1.jpg",
+        "stok": 5
+      },
+      {
+        "id": 3,
+        "nama": "Maspion Fan Blade F Series F-183 7inch 1unit",
+        "harga": 242.000,
+        "gambar": "https://cdn.monotaro.id/media/catalog/product/cache/877fcb35590cc62c03a65c52f73f09cd/S/0/S003613894-1.jpg",
+        "stok": 6
+      },
+      {
+        "id": 4,
+        "nama": "Kipas Angin Cosmos 16-SDB",
+        "harga": 240.000,
+        "gambar": "https://www.sinarmaju.co.id/image/cache/catalog/old_data/Kipas%20Angin/Cosmos/Cosmos%2016%20SDB%20-550x550.jpg",
+        "stok": 3
+      },
+      {
+        "id": 5,
+        "nama": "kipas Angin Polytron",
+        "harga": 285.000,
+        "gambar": "https://1.bp.blogspot.com/-h6wUVIwkjFQ/WYpwjSZvQII/AAAAAAAAAaY/wXJgW2WmPAA6oSsSFr7FImLcCvKObAHZACLcBGAs/s1600/Kipas%2BAngin%2BCosmos%2BS033.png",
+        "stok": 7
+      },
+      {
+        "id": 6,
+        "nama": "Miyako Kipas Angin Berdiri KAS-1816",
+        "harga": 330.000,
+        "gambar": "https://cdn.monotaro.id/media/catalog/product/cache/877fcb35590cc62c03a65c52f73f09cd/S/0/S010900857-1.jpg",
+        "stok": 1
+      },
+      {
+        "id": 7,
+        "nama": "Miyako Stand Fan KSB-18 1unit",
+        "harga": 484.000,
+        "gambar": "https://cdn.monotaro.id/media/catalog/product/cache/877fcb35590cc62c03a65c52f73f09cd/S/0/S010900925-1.jpg",
+        "stok": 2
+      },
+      {
+        "id": 8,
+        "nama": "SEKAI Pile Fan IST 1851 18inch 1unit",
+        "harga": 506.000,
+        "gambar": "https://cdn.monotaro.id/media/catalog/product/cache/877fcb35590cc62c03a65c52f73f09cd/S/0/S009406225-1.jpg",
+        "stok": 10
+      },
+      {
+        "id": 9,
+        "nama": "Miyako Stand Fan KAS-1627 KBT 1unit",
+        "harga": 363.000,
+        "gambar": "https://cdn.monotaro.id/media/catalog/product/cache/877fcb35590cc62c03a65c52f73f09cd/S/0/S010900871-1.jpg",
+        "stok": 4
+      }
+    ],
+    "comments": [],
+    "profile": {
+      "name": "typicode"
+    }
+  }

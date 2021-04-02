@@ -1,0 +1,29 @@
+{
+    "keranjang": [
+      {
+        "id": 1,
+        "nama": "SEKAI Pile Fan HSN 1238 PO 12inch 1unit",
+        "harga": 385.000,
+        "stok":2,
+        "qty": 1
+      },
+      {
+        "id": 2,
+        "nama": "Miyako Desk Fan KAD-927 B GB 1unit",
+        "harga": 189.200,
+        "stok": 5,
+        "qty": 6
+      },
+      {
+        "id": 4,
+        "nama": "Maspion Fan Blade F Series F-183 7inch 1unit",
+        "harga": 242.000,
+        "stok": 6,
+        "qty": 1
+      }
+    ],
+    "comments": [],
+    "profile": {
+      "name": "typicode"
+    }
+  }
